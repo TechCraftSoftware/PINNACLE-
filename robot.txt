@@ -1,3 +1,3 @@
 User-agent: *
 Disallow:
-Sitemap: https://pinnacle.updategrowth.com/sitemap.xml
+Sitemap: https://www.updategrowth.com/sitemap.xml
